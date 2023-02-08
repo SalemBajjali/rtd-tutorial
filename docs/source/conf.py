@@ -33,18 +33,13 @@ def _parse_release_as_version(rls):
 
 # -- Project information -----------------------------------------------------
 
-project = 'Genomic Knowledge Pilot'
-copyright = '2022, GK Pilot Contributors'
+project = 'Project name'
+copyright = '2023, GKS-Transcript'
 author = 'Committers'
 master_doc = 'index'
 # N.B. RTD ignores these values. :-/
 release = _get_git_tag()
 version = _parse_release_as_version(release)
-
-# -- Schema doc paths --------------------------------------------------------
-
-rst_epilog_fn = os.path.join(os.path.dirname(__file__), 'rst_epilog')
-rst_epilog = open(rst_epilog_fn).read().format(release=release)
 
 # -- General configuration ---------------------------------------------------
 
