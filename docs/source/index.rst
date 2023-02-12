@@ -13,7 +13,7 @@ Text with my `<https://github.com/SalemBajjali>`_.
 
 
 .. figure:: images/CC-BY.png
-   :alt: image source
+
    
    
    More text can go here. 
