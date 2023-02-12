@@ -12,7 +12,7 @@ Text with my `<https://github.com/SalemBajjali>`_.
    #. input text
 
 
-.. figure:: CC-BY.png
+.. figure:: images/CC-BY.png
    :alt: image source
    
    
