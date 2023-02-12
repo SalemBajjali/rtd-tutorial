@@ -7,14 +7,13 @@ Tittle goes here
 
 Text with my `<https://github.com/SalemBajjali>`_. 
 
-   1. input text 
+   1. input text
    #. input text
    #. input text
 
 
 .. figure:: images/CC-BY.png
-
-   
+   :alt: image source/caption
    
    More text can go here. 
 
